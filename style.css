@@ -1,7 +1,7 @@
 body {
   font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
   color: #000000;
-  background-color:#110011;
+  background-image: url(assets/pattern_156.gif);
   margin: 0px;
   padding: 0px;
   width: 100%;
@@ -14,6 +14,10 @@ div, p, span {
   text-align: left;
 }
 
+.foot {
+  color: #ffffff;
+  text-align: right;
+}
 
 .walloftext {
   padding-top: 10px;
