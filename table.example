@@ -1,0 +1,35 @@
+  <table id="game_table" cellspacing="0" class="game_table">
+    <tr>
+      <td>
+        <div>
+          <table id="game" cellspacing="0" cellpadding="0" class="game">
+            <tr>
+              <td align="left" width="17px" height="17px" background="assets/frame_nw.png"></td>
+              <td align="left" height="17px" background="assets/frame_n.png"></td>
+              <td align="left" width="17px" height="17px" background="assets/frame_ne.png"></td>
+            </tr>
+            <tr>
+              <td align="left" width="17px" background="assets/frame_w.png"></td>
+              <td align="left">
+                <img width="248px" src="assets/janus.png">
+              </td>
+              <td align="left" width="17px" background="assets/frame_e.png"></td>
+            </tr>
+            <tr>
+              <td align="left" width="17px" height="17px" background="assets/frame_sw.png"></td>
+              <td align="left" height="17px" background="assets/frame_s.png"></td>
+              <td align="left" width="17px" height="17px" background="assets/frame_se.png"></td>
+            </tr>
+          </table>
+        </div>
+      </td>
+      <td> 
+        <div id="game_description" class="game_description">
+          Published: WHEN <br><br>
+SOMETHING <br><br>
+Developed using WHAT?<br><br>
+<a href="link">Play Now</a>
+        </div>
+      </td>
+    </tr>
+  </table>
